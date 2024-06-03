@@ -1,0 +1,1430 @@
+.inicio-macbook-pro-16-8-child {
+  height: 1117px;
+  width: 1728px;
+  position: relative;
+  background: linear-gradient(130.51deg, #2a9089, #0c2a28);
+  display: none;
+  max-width: 100%;
+}
+.funciones-child1 {
+  width: 396px;
+  height: 1059px;
+  position: relative;
+  border-radius: var(--br-lgi);
+  background: linear-gradient(169.2deg, #fde1c9, #978678);
+  display: none;
+  max-width: 100%;
+}
+.e0b3ce2-0ba3-4aab-9e38-5a1eeb4-icon3 {
+  height: 168px;
+  width: 164px;
+  position: relative;
+  border-radius: var(--br-mini);
+  object-fit: cover;
+  z-index: 1;
+}
+.parking2,
+.system2 {
+  position: relative;
+  text-shadow: 1px 0 0#1f6863, 0 1px 0#1f6863, -1px 0 0#1f6863, 0-1px 0#1f6863;
+  z-index: 1;
+}
+.parking2 {
+  margin: 0;
+  align-self: stretch;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.system2 {
+  height: 32px;
+  flex: 1;
+  display: inline-block;
+}
+.parking-label-container,
+.parking-label1,
+.system-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.system-frame {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-6xs);
+  font-size: var(--font-size-xl);
+}
+.parking-label-container,
+.parking-label1 {
+  flex-direction: column;
+}
+.parking-label1 {
+  align-self: stretch;
+}
+.parking-label-container {
+  width: 142px;
+  padding: var(--padding-26xl) 0 0;
+  box-sizing: border-box;
+  min-width: 142px;
+}
+.e0b3ce2-0ba3-4aab-9e38-5a1eeb4-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+}
+.frame-child7 {
+  height: 1px;
+  flex: 1;
+  position: relative;
+  border-top: 1px solid var(--color-gray);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.frame-parent13,
+.line-container {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.line-container {
+  flex-direction: row;
+  padding: 0 var(--padding-5xs) 0 var(--padding-4xs);
+}
+.frame-parent13 {
+  flex-direction: column;
+  gap: var(--gap-13xl);
+}
+.vector-icon15 {
+  width: 16px;
+  height: 16.3px;
+  position: relative;
+  z-index: 1;
+}
+.vector-wrapper8 {
+  height: 17.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+}
+.inicio2 {
+  color: #1f6863;
+  text-decoration: none;
+  height: 33px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 40px;
+  z-index: 1;
+}
+
+.entries-label,
+.method-of-payment-label {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.entries-label {
+  flex: 1;
+  justify-content: flex-start;
+  gap: var(--gap-8xl);
+}
+.method-of-payment-label {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xs);
+}
+.available-categories-label {
+  width: 14px;
+  height: 10px;
+  position: relative;
+  z-index: 1;
+}
+.available-categories-label-wrapper {
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+}
+.categoria2 {
+  color: #1f6863;
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 65px;
+  z-index: 1;
+}
+.admin-container,
+.frame-parent14 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent14 {
+  flex: 1;
+  gap: var(--gap-10xl);
+}
+.admin-container {
+  align-self: stretch;
+  padding: 0 var(--padding-11xs) 0 var(--padding-10xs-5);
+}
+.vector-icon16 {
+  width: 18px;
+  height: 14px;
+  position: relative;
+  z-index: 1;
+}
+.total-parked-cars-label {
+  height: 17px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+}
+.metododepago {
+  color: #1f6863;
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 109px;
+  z-index: 1;
+}
+.total-parked-cars-label-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-8xl);
+}
+.vector-icon17 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  z-index: 1;
+}
+.exits-label {
+  height: 18px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+}
+.entradas2 {
+  color: #1f6863;
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 63px;
+  z-index: 1;
+}
+.exits-label-parent,
+.registration-total-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.exits-label-parent {
+  flex: 1;
+  gap: var(--gap-9xl);
+}
+.registration-total-container {
+  align-self: stretch;
+  padding: 0 var(--padding-11xs) 0 var(--padding-11xs-5);
+}
+.parking-reg-container {
+  width: 17.5px;
+  height: 16px;
+  position: relative;
+  z-index: 1;
+}
+.records-total-title {
+  height: 19px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+}
+.salidas2{
+  color: #1f6863;
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 50px;
+  z-index: 1;
+}
+.plaza-de-aparcamiento-title,
+.search-result-label {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.plaza-de-aparcamiento-title {
+  flex: 1;
+  justify-content: flex-start;
+  gap: var(--gap-9xl);
+}
+.search-result-label {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xs) 0 0;
+}
+.vector-icon18 {
+  width: 18px;
+  height: 18px;
+  position: relative;
+  z-index: 1;
+}
+.search-button-container {
+  height: 19px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+}
+.usuario2 {
+  text-decoration: none;
+  color: #1f6863;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 53px;
+  z-index: 1;
+}
+.search-field-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-8xl);
+}
+.vector-icon19 {
+  width: 18px;
+  height: 18px;
+  position: relative;
+  z-index: 1;
+}
+.vector-wrapper9 {
+  height: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+}
+.buscar2 {
+  text-decoration: none;
+  color: #1f6863;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 47px;
+  z-index: 1;
+}
+.parked-cars-title,
+.search-field-container1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-8xl);
+}
+.parked-cars-title {
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-27xl);
+}
+.categories-available-title {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: var(--gap-22xl);
+}
+.categories-available-title,
+.category-parent,
+.logout-vec {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.logout-vec {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: var(--gap-29xl);
+}
+.category-parent {
+  flex: 1;
+  align-items: flex-end;
+  gap: var(--gap-12xl);
+}
+.category-parent-wrapper {
+  width: 251.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs) var(--padding-130xl) var(--padding-smi-5);
+  box-sizing: border-box;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-podkova);
+}
+.ajustes-icon2,
+.cerrar-sesion-icon2 {
+  width: 20px;
+  height: 18.9px;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+  z-index: 1;
+}
+.cerrar-sesion-icon2 {
+  width: 16px;
+  height: 16px;
+}
+.ajustes-container,
+.funciones2,
+.registers-total-title {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ajustes-container {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-13xl-1);
+}
+.funciones2,
+.registers-total-title {
+  box-sizing: border-box;
+}
+.registers-total-title {
+  height: 67px;
+  flex-direction: row;
+  padding: 0 var(--padding-11xs);
+}
+.funciones2 {
+  width: 396px;
+  border-radius: var(--br-lgi);
+  background: linear-gradient(169.2deg, #fde1c9, #978678);
+  box-shadow: 23px 19px 16px rgba(0, 0, 0, 0.25);
+  flex-direction: column;
+  padding: var(--padding-27xl) var(--padding-18xl) var(--padding-16xl);
+  gap: var(--gap-52xl);
+  min-width: 396px;
+  max-width: 100%;
+  z-index: 1;
+}
+.admin-controls-icon {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  mix-blend-mode: overlay;
+  z-index: 1;
+}
+.administrador2,
+.vehicle-categories-icon {
+  position: absolute;
+  margin: 0 !important;
+  z-index: 2;
+}
+.vehicle-categories-icon {
+  width: 58px;
+  height: 58px;
+  top: -29px;
+  right: 115px;
+}
+.administrador2 {
+  width: 179px;
+  top: -9px;
+  right: -93px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-podkova);
+  color: var(--color-bisque);
+  display: inline-block;
+}
+.vehiculos-estacionados-child {
+  height: 242px;
+  width: 501px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lightgray-100);
+  backdrop-filter: blur(10px);
+  display: none;
+  max-width: 100%;
+}
+.total-parking-capacity {
+  height: 61px;
+  position: relative;
+  line-height: 35px;
+  display: inline-block;
+  text-shadow: 6px 6px 4px rgba(0, 0, 0, 0.25);
+  min-width: 70px;
+  white-space: nowrap;
+  z-index: 1;
+}
+.registered-cars {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-52xl);
+}
+.estacionados,
+.vehiculos {
+  margin: 0;
+}
+.vehiculos-estacionados1 {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-21xl);
+  letter-spacing: 0.08em;
+  line-height: 35px;
+  font-weight: 400;
+  font-family: inherit;
+  text-shadow: 8px 6px 6px rgba(0, 0, 0, 0.25);
+  z-index: 1;
+}
+.plaza-statistics {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xl);
+  min-width: 183px;
+}
+.wrapper-group-3953-child {
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  object-fit: contain;
+  position: absolute;
+  left: 8px;
+  top: 5px;
+  transform: scale(1.11);
+}
+.wrapper-group-3953 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 145px;
+  height: 185px;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.carro-icon {
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+  object-fit: contain;
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  transform: scale(1.176);
+}
+.wrapper-carro {
+  position: absolute;
+  top: 37px;
+  left: 34px;
+  width: 78px;
+  height: 68px;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.admin-settings {
+  align-self: stretch;
+  height: 185px;
+  position: relative;
+}
+.parted-vehicles {
+  width: 145px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-6xs);
+  box-sizing: border-box;
+  min-width: 145px;
+}
+.parking-spaces,
+.vehiculos-estacionados {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.vehiculos-estacionados {
+  align-self: stretch;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lightgray-100);
+  backdrop-filter: blur(10px);
+  flex-direction: row;
+  align-items: flex-end;
+  padding: var(--padding-9xl) var(--padding-9xl) var(--padding-3xl);
+  gap: 10px;
+  z-index: 2;
+}
+.parking-spaces {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-9xs) 0 0;
+  min-width: 326px;
+}
+.vehiculos-partidos-child {
+  height: 242px;
+  width: 501px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lightgray-200);
+  backdrop-filter: blur(10px);
+  display: none;
+  max-width: 100%;
+}
+.total-registered-vehicles {
+  height: 61px;
+  position: relative;
+  line-height: 35px;
+  display: inline-block;
+  text-shadow: 6px 6px 4px rgba(0, 0, 0, 0.25);
+  min-width: 70px;
+  z-index: 1;
+}
+.category-listing {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 78px 0 var(--padding-52xl);
+}
+.partidos,
+.vehiculos1 {
+  margin: 0;
+}
+.vehiculos-partidos1 {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-21xl);
+  letter-spacing: 0.08em;
+  line-height: 35px;
+  font-weight: 400;
+  font-family: inherit;
+  text-shadow: 8px 6px 6px rgba(0, 0, 0, 0.25);
+  z-index: 1;
+}
+.available-spaces,
+.unused-capacity {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.unused-capacity {
+  align-self: stretch;
+  gap: var(--gap-6xl);
+}
+.available-spaces {
+  width: 219px;
+  padding: 10px 0 0;
+  box-sizing: border-box;
+  min-width: 219px;
+}
+.vehiculos-partidos-item {
+  height: 120px;
+  width: 120px;
+  position: relative;
+  z-index: 1;
+}
+.available-categories,
+.vehiculos-partidos {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.vehiculos-partidos {
+  flex: 0.8523;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lightgray-200);
+  backdrop-filter: blur(10px);
+  justify-content: space-between;
+  padding: var(--padding-35xl) var(--padding-27xl) var(--padding-3xl)
+    var(--padding-9xl);
+  box-sizing: border-box;
+  min-width: 326px;
+  gap: var(--gap-xl);
+  z-index: 2;
+}
+.available-categories {
+  align-self: stretch;
+  justify-content: flex-start;
+  gap: var(--gap-23xl);
+}
+.ganacias-totales-child {
+  height: 242px;
+  width: 501px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lightgray-300);
+  backdrop-filter: blur(10px);
+  display: none;
+  max-width: 100%;
+}
+.total-available-capacity {
+  height: 61px;
+  position: relative;
+  line-height: 10px;
+  display: inline-block;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.25);
+  min-width: 10px;
+  z-index: 1;
+  font-size: 60px;
+}
+.parking-total {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 43px;
+}
+.ganacias,
+.totales {
+  margin: 0;
+}
+.ganacias-totales1 {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-21xl);
+  letter-spacing: 0.08em;
+  line-height: 35px;
+  font-weight: 400;
+  font-family: inherit;
+  text-shadow: 8px 6px 6px rgba(0, 0, 0, 0.25);
+  z-index: 1;
+}
+.plaza-total-revenues {
+  width: 184px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xl);
+  min-width: 184px;
+}
+.vector-icon20,
+.wrapper-vector {
+  align-self: stretch;
+  flex: 1;
+  z-index: 1;
+}
+.vector-icon20 {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 100%;
+  height: 100%;
+  transform: scale(1.261);
+}
+.wrapper-vector {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.available-registration-capacit {
+  height: 86px;
+  width: 118px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mid) 0 0;
+  box-sizing: border-box;
+}
+.ganacias-totales,
+.ganacias-totales-wrapper {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.ganacias-totales {
+  align-self: stretch;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lightgray-300);
+  backdrop-filter: blur(10px);
+  flex-direction: row;
+  justify-content: space-between;
+  padding: var(--padding-45xl) var(--padding-29xl) var(--padding-3xl)
+    var(--padding-9xl);
+  gap: var(--gap-xl);
+  z-index: 2;
+}
+.ganacias-totales-wrapper {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) 0 0;
+  min-width: 326px;
+}
+.categorias-disponibles-child {
+  height: 242px;
+  width: 501px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lightgray-300);
+  backdrop-filter: blur(10px);
+  display: none;
+  max-width: 100%;
+}
+.registered-vehicles {
+  height: 61px;
+  position: relative;
+  line-height: 35px;
+  display: inline-block;
+  text-shadow: 6px 6px 4px rgba(0, 0, 0, 0.25);
+  min-width: 70px;
+  z-index: 1;
+}
+.parking-services {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 76px 0 var(--padding-52xl);
+}
+.categoria3,
+.disponible {
+  margin: 0;
+}
+.categoria-disponible {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-21xl);
+  letter-spacing: 0.08em;
+  line-height: 35px;
+  font-weight: 400;
+  font-family: inherit;
+  text-shadow: 8px 6px 6px rgba(0, 0, 0, 0.25);
+  z-index: 1;
+}
+.service-categories {
+  width: 217px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xl);
+}
+.total-occupied-capacity {
+  align-self: stretch;
+  flex: 1;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+  object-fit: contain;
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  width: 100%;
+  height: 100%;
+  transform: scale(1.219);
+}
+.wrapper-total-occupied-capacit {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.total-admin-controls {
+  height: 91px;
+  width: 73px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+  box-sizing: border-box;
+}
+.categorias-disponibles,
+.revenue-breakdown {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.categorias-disponibles {
+  flex: 0.8383;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lightgray-300);
+  backdrop-filter: blur(10px);
+  justify-content: space-between;
+  padding: var(--padding-45xl) 53px var(--padding-3xl) var(--padding-9xl);
+  min-width: 326px;
+  gap: var(--gap-xl);
+  z-index: 2;
+}
+.revenue-breakdown {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-8xs);
+  gap: var(--gap-23xl);
+}
+.plaza-de-aparcamiento-child {
+  width: 501px;
+  height: 242px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lightgray-400);
+  backdrop-filter: blur(10px);
+  display: none;
+  max-width: 100%;
+}
+.registered-vehicles-list {
+  height: 61px;
+  position: relative;
+  line-height: 35px;
+  display: inline-block;
+  text-shadow: 6px 6px 4px rgba(0, 0, 0, 0.25);
+  min-width: 70px;
+  white-space: nowrap;
+  z-index: 1;
+}
+.registration-history {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 72px;
+}
+.aparcamiento-totales,
+.plaza-de {
+  margin: 0;
+}
+.plaza-de-aparcamiento-container {
+  margin: 0;
+  height: 70px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.08em;
+  line-height: 35px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  text-shadow: 8px 6px 6px rgba(0, 0, 0, 0.25);
+  max-width: 100%;
+  z-index: 1;
+}
+.parking-icon {
+  height: 100%;
+  width: 100%;
+  z-index: 2;
+  object-fit: contain;
+  position: absolute;
+  left: 7px;
+  top: 5px;
+  transform: scale(1.081);
+}
+.wrapper-parking {
+  height: 138.3px;
+  width: 159.8px;
+  position: absolute;
+  margin: 0 !important;
+  top: -112px;
+  right: -64.8px;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.plaza-de-aparcamiento-totales-parent {
+  width: 384px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+  font-size: 30px;
+}
+.plaza-de-aparcamiento,
+.regsitros-totales-child {
+  border-radius: var(--br-3xs);
+  backdrop-filter: blur(10px);
+  max-width: 100%;
+}
+.plaza-de-aparcamiento {
+  flex: 1;
+  background-color: var(--color-lightgray-400);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-45xl) var(--padding-8xl) var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-8xl);
+  z-index: 2;
+}
+.regsitros-totales-child {
+  width: 501px;
+  height: 242px;
+  position: relative;
+  background-color: var(--color-lightgray-500);
+  display: none;
+}
+.total-services-summary {
+  height: 61px;
+  position: relative;
+  line-height: 35px;
+  display: inline-block;
+  text-shadow: 6px 6px 4px rgba(0, 0, 0, 0.25);
+  min-width: 70px;
+  z-index: 1;
+}
+.admin-options-icon {
+  height: 100%;
+  width: 100%;
+  z-index: 1;
+  object-fit: contain;
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  transform: scale(1.267);
+}
+.wrapper-admin-options {
+  height: 85px;
+  width: 60px;
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.regsitros-totales-inner,
+.total-services-summary-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.total-services-summary-parent {
+  width: 346px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.regsitros-totales-inner {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 var(--padding-3xl);
+  box-sizing: border-box;
+}
+.registros,
+.totales1 {
+  margin: 0;
+}
+.registros-totales {
+  margin: 0;
+  width: 251px;
+  position: relative;
+  font-size: var(--font-size-21xl);
+  letter-spacing: 0.08em;
+  line-height: 35px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  text-shadow: 8px 6px 6px rgba(0, 0, 0, 0.25);
+  z-index: 1;
+}
+.regsitros-totales {
+  flex: 0.9687;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lightgray-500);
+  backdrop-filter: blur(10px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-45xl) var(--padding-15xl) var(--padding-xl);
+  box-sizing: border-box;
+  gap: 3px;
+  max-width: 100%;
+  z-index: 2;
+}
+.registros-totales-title,
+.total-free-capacity {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.total-free-capacity {
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-23xl);
+}
+.registros-totales-title {
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: var(--padding-95xl) var(--padding-35xl) var(--padding-95xl) 55px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 12px;
+}
+.categories-list-label,
+.inicio-macbook-pro-16-8 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  text-align: left;
+}
+.categories-list-label {
+  width: 1153px;
+  flex-direction: column;
+  padding: var(--padding-27xl) 0 0;
+  min-width: 1153px;
+  max-width: 100%;
+  font-size: var(--font-size-131xl);
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-jaldi);
+}
+.inicio-macbook-pro-16-8 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(130.51deg, #2a9089, #0c2a28);
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-10xl) var(--padding-35xl);
+  gap: var(--gap-13xl);
+  letter-spacing: normal;
+  font-size: var(--font-size-21xl);
+  color: var(--color-teal-200);
+  font-family: var(--font-italiana);
+}
+@media screen and (max-width: 1600px) {
+  .funciones2 {
+    flex: 1;
+  }
+  .categories-list-label {
+    flex: 1;
+    min-width: 100%;
+  }
+  .inicio-macbook-pro-16-8 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1275px) {
+  .funciones2 {
+    padding-top: var(--padding-11xl);
+    padding-bottom: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+  .available-categories,
+  .revenue-breakdown,
+  .total-free-capacity {
+    flex-wrap: wrap;
+  }
+  .registros-totales-title {
+    padding: 74px var(--padding-8xl);
+    box-sizing: border-box;
+  }
+  .categories-list-label {
+    padding-top: var(--padding-11xl);
+    box-sizing: border-box;
+  }
+  .inicio-macbook-pro-16-8 {
+    padding-left: var(--padding-8xl);
+    padding-right: var(--padding-8xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .parking2 {
+    font-size: var(--font-size-13xl);
+  }
+  .category-parent-wrapper,
+  .funciones2 {
+    padding-bottom: var(--padding-78xl);
+    box-sizing: border-box;
+  }
+  .funciones2 {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-xl);
+    min-width: 100%;
+  }
+  .total-parking-capacity {
+    font-size: var(--font-size-41xl);
+    line-height: 21px;
+  }
+  .vehiculos-estacionados1 {
+    font-size: var(--font-size-13xl);
+    line-height: 28px;
+  }
+  .parted-vehicles {
+    flex: 1;
+  }
+  .vehiculos-estacionados {
+    flex-wrap: wrap;
+  }
+  .total-registered-vehicles {
+    font-size: var(--font-size-41xl);
+    line-height: 21px;
+  }
+  .vehiculos-partidos1 {
+    font-size: var(--font-size-13xl);
+    line-height: 28px;
+  }
+  .available-spaces,
+  .vehiculos-partidos-item {
+    flex: 1;
+  }
+  .vehiculos-partidos {
+    flex-wrap: wrap;
+    padding-right: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+  .available-categories {
+    gap: 42px 21px;
+  }
+  .total-available-capacity {
+    font-size: var(--font-size-41xl);
+    line-height: 21px;
+  }
+  .ganacias-totales1 {
+    font-size: var(--font-size-13xl);
+    line-height: 28px;
+  }
+  .plaza-total-revenues {
+    flex: 1;
+  }
+  .ganacias-totales {
+    flex-wrap: wrap;
+    padding-right: 24px;
+    box-sizing: border-box;
+  }
+  .registered-vehicles {
+    font-size: var(--font-size-41xl);
+    line-height: 21px;
+  }
+  .categoria-disponible {
+    font-size: var(--font-size-13xl);
+    line-height: 28px;
+  }
+  .categorias-disponibles {
+    flex-wrap: wrap;
+    padding-right: 26px;
+    box-sizing: border-box;
+  }
+  .revenue-breakdown {
+    gap: 42px 21px;
+  }
+  .registered-vehicles-list {
+    font-size: var(--font-size-41xl);
+    line-height: 21px;
+  }
+  .plaza-de-aparcamiento-container {
+    font-size: var(--font-size-5xl);
+    line-height: 28px;
+  }
+  .total-services-summary {
+    font-size: var(--font-size-41xl);
+    line-height: 21px;
+  }
+  .registros-totales {
+    font-size: var(--font-size-13xl);
+    line-height: 28px;
+  }
+  .regsitros-totales {
+    flex: 1;
+  }
+  .total-free-capacity {
+    gap: 42px 21px;
+  }
+  .registros-totales-title {
+    padding-top: var(--padding-29xl);
+    padding-bottom: var(--padding-29xl);
+    box-sizing: border-box;
+  }
+  .categories-list-label {
+    padding-top: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .inicio-macbook-pro-16-8 {
+    gap: 32px 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .e0b3ce2-0ba3-4aab-9e38-5a1eeb4-icon3 {
+    flex: 1;
+  }
+  .parking2 {
+    font-size: var(--font-size-5xl);
+  }
+  .system2 {
+    font-size: var(--font-size-base);
+  }
+  .parking-label-container {
+    flex: 1;
+  }
+  .e0b3ce2-0ba3-4aab-9e38-5a1eeb4-container {
+    flex-wrap: wrap;
+  }
+  .frame-parent13 {
+    gap: 16px 32px;
+  }
+  .inicio2 {
+    font-size: var(--font-size-base);
+  }
+  .entries-label {
+    flex-wrap: wrap;
+  }
+  .categoria2 {
+    font-size: var(--font-size-base);
+  }
+  .frame-parent14 {
+    flex-wrap: wrap;
+  }
+  .metodo-de-pago2 {
+    font-size: var(--font-size-base);
+  }
+  .total-parked-cars-label-parent {
+    flex-wrap: wrap;
+  }
+  .entradas2 {
+    font-size: var(--font-size-base);
+  }
+  .exits-label-parent {
+    flex-wrap: wrap;
+  }
+  .salidas2 {
+    font-size: var(--font-size-base);
+  }
+  .plaza-de-aparcamiento-title {
+    flex-wrap: wrap;
+  }
+  .usuario2 {
+    font-size: var(--font-size-base);
+  }
+  .search-field-container {
+    flex-wrap: wrap;
+  }
+  .buscar2 {
+    font-size: var(--font-size-base);
+  }
+  .search-field-container1 {
+    flex-wrap: wrap;
+  }
+  .funciones2 {
+    gap: 35px 71px;
+  }
+  .administrador2 {
+    font-size: var(--font-size-base);
+  }
+  .total-parking-capacity {
+    font-size: var(--font-size-18xl);
+    line-height: 14px;
+  }
+  .vehiculos-estacionados1 {
+    font-size: var(--font-size-5xl);
+    line-height: 21px;
+  }
+  .total-registered-vehicles {
+    font-size: var(--font-size-18xl);
+    line-height: 14px;
+  }
+  .vehiculos-partidos1 {
+    font-size: var(--font-size-5xl);
+    line-height: 21px;
+  }
+  .vehiculos-partidos {
+    flex: 1;
+  }
+  .total-available-capacity {
+    font-size: var(--font-size-18xl);
+    line-height: 14px;
+  }
+  .ganacias-totales1 {
+    font-size: var(--font-size-5xl);
+    line-height: 21px;
+  }
+  .registered-vehicles {
+    font-size: var(--font-size-18xl);
+    line-height: 14px;
+  }
+  .categoria-disponible {
+    font-size: var(--font-size-5xl);
+    line-height: 21px;
+  }
+  .categorias-disponibles {
+    flex: 1;
+  }
+  .registered-vehicles-list {
+    font-size: var(--font-size-18xl);
+    line-height: 14px;
+  }
+  .plaza-de-aparcamiento-container {
+    font-size: var(--font-size-lg);
+    line-height: 21px;
+  }
+  .total-services-summary {
+    font-size: var(--font-size-18xl);
+    line-height: 14px;
+  }
+  .total-services-summary-parent {
+    flex-wrap: wrap;
+  }
+  .registros-totales {
+    font-size: var(--font-size-5xl);
+    line-height: 21px;
+  }
+}
